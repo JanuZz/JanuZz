@@ -1,7 +1,7 @@
 <h3 align='center'> 👋 from JanuZz </h3>
 
 Hi there, im JanuZz you might also know me as T3CH. I enjoy programming for fun, and also study it in school.
-I enjoy working on web based projects with skills in both front- and backend. 
+I enjoy working on web-based projects with skills in both front- and backend. 
 
 ---
 
